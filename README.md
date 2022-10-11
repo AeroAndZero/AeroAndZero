@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AeroAndZero
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Unity & Networking
+- 📫 How to reach me: send an email on aeroandzero@gmail.com
