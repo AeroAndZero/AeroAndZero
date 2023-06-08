@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AeroAndZero
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity & Networking
+- 🌱 I’m currently learning Unity, Computer Graphics & AR/VR
 - 📫 How to reach me: send an email on aeroandzero@gmail.com
