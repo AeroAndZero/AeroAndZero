@@ -1,6 +1,6 @@
-|                                       |
-|:-------------------------------------:|
-| ![](cube.png) |
+|               |               |
+|:-------------:|:-------------:|
+| ![](cube.png) | Aero&Zero |
 
 - 👋 Hi, I’m @AeroAndZero
 - 👀 I’m interested in Game Development
