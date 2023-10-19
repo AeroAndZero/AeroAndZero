@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cube.png" width="100" height="100"> 
+  <img src="cube.png" width="80%" height="auto"> 
 </div>
 
 - 👋 Hi, I’m @AeroAndZero
