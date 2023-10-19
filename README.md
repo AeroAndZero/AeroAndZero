@@ -1,6 +1,5 @@
 <div align="center">
   <img src="cube.png" width="100" height="100"> 
-  <div style="display: inline-block;"> Aero&Zero </div>
 </div>
 
 - 👋 Hi, I’m @AeroAndZero
