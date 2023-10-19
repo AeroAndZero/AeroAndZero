@@ -1,6 +1,11 @@
-<script>
-  console.log(window.event.clientX)
-</script>
+<div style="display:flex;">
+  <div>
+    <img src="https://www.freeiconspng.com/uploads/black-cube-box-png-5.png" alt="Cube" />
+  </div>
+  <div>
+    Aero&Zero
+  </div>
+</div>
 
 - 👋 Hi, I’m @AeroAndZero
 - 👀 I’m interested in Game Development
