@@ -19,6 +19,7 @@
 </body>
 </html>
 
+| <img src="https://raw.githubusercontent.com/AeroAndZero/AeroAndZero/main/cube.png" alt="Cube" style="width: 100%;height: 100%;"/> | Aero&Zero |
 
 - 👋 Hi, I’m @AeroAndZero
 - 👀 I’m interested in Game Development
