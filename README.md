@@ -1,6 +1,8 @@
+<align="center"
 |               |               |
 |:-------------:|:-------------:|
 | <img src="cube.png" width="100" height="100"> | Aero&Zero |
+</align>
 
 - 👋 Hi, I’m @AeroAndZero
 - 👀 I’m interested in Game Development
