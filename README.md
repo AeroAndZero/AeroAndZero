@@ -6,7 +6,7 @@ Hi, I'm Ayush, a 22-year-old IT student who wants to pursue a game development c
 <br/>
 <br/>
 <footer>
-  <table cellspacing="10">
+  <table cellspacing="10" align="center">
     <tr>
       <td><a href='https://www.youtube.com/@AeroAndZero'>YouTube</a></td>
       <td><a href='https://www.instagram.com/aero.n.zero/'>Instagram</a></td>
