@@ -2,7 +2,7 @@
   <img src="cube.png" width="80%" height="auto"> 
 </div>
 <hr noshade/>
-Hi, I'm Ayush, a 22-year-old IT student who wants to pursue a game development career with some cool projects. I am always looking to bring something new to the table, whether it is something very innovative or something very stupid; in the end, all I want is to put smiles on people's faces.
+Hi, I'm Ayush, a 23-year-old IT student who wants to pursue a game development career with some cool projects. I am always looking to bring something new to the table, whether it is something very innovative or something very stupid; in the end, all I want is to put smiles on people's faces.
 <br/>
 <br/>
 <footer>
